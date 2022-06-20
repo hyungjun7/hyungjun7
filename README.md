@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-interested in nodejs open sources
+interested in nodejs open source
 
 <!--
 **hyungjun7/hyungjun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
